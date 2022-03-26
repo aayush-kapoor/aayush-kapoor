@@ -26,7 +26,7 @@
 - 👯 Looking to collaborate with other Developers
 - 🥅 2022 Goals: Bag a SDE Internship
 - 💬 Ask me about anything, I am happy to help!
-- 📬 How to reach me: [Let's get in touch!](https://www.linkedin.com/in/aayush-v-kapoor/)
+- 📬 How to reach me: [Here!](https://www.linkedin.com/in/aayush-v-kapoor/)
 - 🧗 I try to: Challenge myself at each step
 <br>
 
