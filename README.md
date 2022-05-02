@@ -5,9 +5,6 @@
   <h1 align="center"><b>Hola, I'm Aayush 👋</b></h1>
 </p>
 
-<p align="center">
-    <img align="center" alt="visitors" src="https://gpvc.arturio.dev/aayush-kapoor" />
-</p>
 
 <p align="center">
 <br>
