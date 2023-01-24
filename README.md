@@ -18,10 +18,9 @@
 
 <img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
-### I am currently a 3rd Year IT Student in Mumbai
-- 🌱 Learning Full Stack Development.
+### I am currently a 4th Year IT Student in Mumbai
+- 🌱 Learning Data Science.
 - 👯 Looking to collaborate with other Developers
-- 🥅 2022 Goals: Bag a SDE Internship
 - 💬 Ask me about anything, I am happy to help!
 - 📬 How to reach me: [Here!](https://www.linkedin.com/in/aayush-v-kapoor/)
 - 🧗 I try to: Challenge myself at each step
