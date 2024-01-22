@@ -19,11 +19,10 @@
 <img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 ### I am currently a Master's student majoring in Computer Science
-- 🌱 Learning Data Science.
 - 👯 Looking to collaborate with other Developers
 - 💬 Ask me about anything, I am happy to help!
-- 📬 How to reach me: [Here!](https://www.linkedin.com/in/aayush--kapoor/)
-- 🧗 I try to: Challenge myself at each step
+- 📬 You can reach me [here!](https://www.linkedin.com/in/aayush--kapoor/)
+- 🧗 I try to challenge myself at each step
 <br>
 
 ### Languages and Tools: 
